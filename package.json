@@ -1,0 +1,19 @@
+{
+  "name": "elizabot",
+  "version": "1.0.0",
+  "description": "elizabot implementation",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node server.js"
+  },
+  "keywords": [
+    "elizabot"
+  ],
+  "author": "Oliver Leitner",
+  "license": "ISC",
+  "dependencies": {
+    "elizabot": "^0.0.3",
+    "ws": "^7.4.3"
+  }
+}
